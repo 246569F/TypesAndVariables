@@ -1,0 +1,7 @@
+name = input("What's your name: ")
+name = str(name)
+Age = input("What's your age: ")
+Age = int(Age)
+height = input("What's your height: ")
+height = int(height)
+print(f'My name is {name} I am {Age} years old, and my height is {height} cm. In 6 years I will be {Age+6} years old.')
